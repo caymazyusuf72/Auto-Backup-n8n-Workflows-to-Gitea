@@ -7,11 +7,6 @@
 
 ---
 
-## 🎥 Project Preview
-
-![Workflow Demo Animation](assets/demo-diagram.gif)
-
-> Replace with your GIF or Mermaid diagram showing the workflow structure.
 
 ---
 
