@@ -4,7 +4,7 @@
 > ⚡ Detects changes before committing — only updates when needed.  
 > 🧠 Smart, clean, and fully automated.  
 > 👨‍💻 Built with love by [Yusuf • CaymazStudyo](https://caymazstudyo.com)
-
+gggg
 ---
 
 
